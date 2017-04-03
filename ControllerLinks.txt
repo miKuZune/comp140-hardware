@@ -1,0 +1,16 @@
+
+Componenets:
+Slide Potentiometer
+Buttons x2
+10 strip LED x 2
+Sheift Register 8bit x 3
+Resistors
+LEDS
+
+Links:
+https://www.proto-pic.co.uk/slide-pot-small-10k-linear-taper.html
+https://www.proto-pic.co.uk/momentary-push-button-switch-12mm-square.html
+https://www.proto-pic.co.uk/10-segment-led-bar-graph-green.html 		https://www.proto-pic.co.uk/search/for/10+led/
+https://www.proto-pic.co.uk/shift-register-8-bit-sn74hc595.html
+
+Tutorials
